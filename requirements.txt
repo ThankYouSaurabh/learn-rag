@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+pypdf
+flashrank
+sentence-transformers
+streamlit
+pysqlite3-binary
